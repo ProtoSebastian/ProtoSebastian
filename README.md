@@ -7,4 +7,4 @@ I go by *she/her*, and I mainly do `C/C++` and sometimes `Python`,
  to improve my coding style is welcome!
 
 ## Contact
-If you wanna contact me, *<Intentionally Blank Field>*..
+If you wanna contact me, *\<Intentionally Blank Field\>*.
