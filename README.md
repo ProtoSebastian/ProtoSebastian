@@ -19,7 +19,3 @@ If you wanna contact me, *\<Intentionally Blank Field\>*.
 ![langs summary](https://github-readme-stats.vercel.app/api/top-langs/?username=ProtoSebastian&layout=compact&langs_count=5&theme=dracula)
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=ProtoSebastian&theme=dracula)
-
-## Spoiler test
-
-||Tomatoes are *technically* fruits. definitely not by popular opinion though||
